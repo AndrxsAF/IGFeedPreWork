@@ -4,7 +4,6 @@
 
     Doesn't have any functionality at all, it's only purpose is to mirror an example given by breatheco.de (https://github.com/breatheco-de/exercise-instagram-feed/blob/master/preview.gif?raw=true).
 
-[TOC]
 
 ### Features
 
@@ -22,5 +21,4 @@
 
 ```html
 
-<!-- English -->
-<script src="../dist/js/languages/en.js"></script>
+#### MADE BY ANDRÉS FRANCO (ANDRXSAF)
